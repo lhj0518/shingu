@@ -10,3 +10,6 @@ example} 송상준 0001
 [MarkDown 문법]: http://scriptogr.am/myevan/post/markdown-syntax-guide-for-scriptogram
 [Git 명령어]: http://blog.outsider.ne.kr/572
 
+
+
+안녕하세요 신구대 정보통신전공 A반 2014134081 이현정입니다.
